@@ -1,0 +1,31 @@
+.navItemList {
+  margin-left: 0;
+  margin-right: auto;
+  .headLinkItem {
+    background-color: transparent;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: #f8fbfa;
+    font-size: 1.2rem;
+    font-weight: 900;
+    line-height: normal;
+    font-family: "Poppins", sans-serif;
+    padding: 5px 10px;
+
+    width: fit-content;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}
+
+.navItemList.active {
+  .headLinkItem {
+    // color: #0b714c;
+    // border: 1px solid #0b714c;
+    color: #b2d4c9;
+    border: 1px solid #b2d4c9;
+    border-radius: 0.5rem;
+  }
+}
