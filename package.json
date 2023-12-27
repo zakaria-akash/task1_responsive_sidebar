@@ -17,15 +17,10 @@
     "antd": "^5.1.6",
     "jquery": "3.7.1",
     "next": "14.0.3",
-    "nodemailer": "^6.9.7",
     "react": "^18",
     "react-dom": "^18",
     "react-image": "^4.1.0",
-    "react-owl-carousel": "^2.3.3",
-    "react-responsive": "^9.0.2",
-    "react-slick": "^0.29.0",
-    "slick-carousel": "^1.8.1",
-    "styled-components": "^6.1.1"
+    "react-responsive": "^9.0.2"
   },
   "devDependencies": {
     "@types/styled-components": "^5.1.32",

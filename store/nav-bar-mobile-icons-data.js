@@ -18,6 +18,6 @@ export const navBarMobileIconsData = [
     imageSrc: "/images/navBarMobileIcons/Email.svg",
     alt: "email-icon",
     title: "Email_Icon",
-    href: "mailto:info@cottongroup.com.bd",
+    href: "mailto:orders@bondstein.com",
   },
 ];
